@@ -12,7 +12,7 @@ XMRth机场建立于2022年，300Mbps中继速率，1000Mbps 最高速率。
 
 ## XMRth优惠码
 
- V5/V8优惠码，XMRTH
+ V5/V8优惠码，XMRTH1
 
  ## XMRth价格
 
