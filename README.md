@@ -8,7 +8,7 @@ XMRth机场建立于2022年，300Mbps中继速率，1000Mbps 最高速率。
 
 最多8个设备，流媒体完整支持，Netflix稳定解锁。
 
-支持OpenAI/ChatGPT(独立IP)，IPLC专线(消耗中继流量)。1111
+支持OpenAI/ChatGPT(独立IP)，IPLC专线(消耗中继流量)。11111
 
 ## XMRth优惠码
 
